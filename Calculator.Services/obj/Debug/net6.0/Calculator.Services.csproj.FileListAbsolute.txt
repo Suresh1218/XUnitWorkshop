@@ -22,3 +22,15 @@ C:\Users\suresh\Desktop\New folder\Calculator.Services\obj\Debug\net6.0\Calculat
 C:\Users\suresh\Desktop\New folder\Calculator.Services\obj\Debug\net6.0\refint\Calculator.Services.dll
 C:\Users\suresh\Desktop\New folder\Calculator.Services\obj\Debug\net6.0\Calculator.Services.pdb
 C:\Users\suresh\Desktop\New folder\Calculator.Services\obj\Debug\net6.0\ref\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\bin\Debug\net6.0\Calculator.Services.deps.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\bin\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\bin\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.csproj.AssemblyReference.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.AssemblyInfoInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.AssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\refint\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator.Services\obj\Debug\net6.0\ref\Calculator.Services.dll
