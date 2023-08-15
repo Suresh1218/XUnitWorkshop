@@ -1,0 +1,204 @@
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfo.cs
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\appsettings.json
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Calculator.API.exe
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Calculator.API.deps.json
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Calculator.API.runtimeconfig.json
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\CalculatorService.dll
+C:\Users\suresh\Documents\Test Project\Calculator\bin\Debug\net6.0\CalculatorService.pdb
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.Calculator.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.build.Calculator.API.props
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.API.props
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calculator.API.props
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\scopedcss\bundle\Calculator.API.styles.css
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CopyComplete
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\refint\Calculator.API.dll
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\Calculator.API.genruntimeconfig.cache
+C:\Users\suresh\Documents\Test Project\Calculator\obj\Debug\net6.0\ref\Calculator.API.dll
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfo.cs
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\refint\Calculator.API.dll
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\appsettings.json
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.API.exe
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.API.deps.json
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.API.runtimeconfig.json
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Documents\XUnit\Calculator\bin\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.Calculator.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.build.Calculator.API.props
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.API.props
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calculator.API.props
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\scopedcss\bundle\Calculator.API.styles.css
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CopyComplete
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\Calculator.API.genruntimeconfig.cache
+C:\Users\suresh\Documents\XUnit\Calculator\obj\Debug\net6.0\ref\Calculator.API.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\appsettings.json
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.API.exe
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.API.deps.json
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.API.runtimeconfig.json
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Desktop\New folder\Calculator\bin\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfo.cs
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.Calculator.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.build.Calculator.API.props
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.API.props
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calculator.API.props
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\scopedcss\bundle\Calculator.API.styles.css
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CopyComplete
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\refint\Calculator.API.dll
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\Calculator.API.genruntimeconfig.cache
+C:\Users\suresh\Desktop\New folder\Calculator\obj\Debug\net6.0\ref\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\appsettings.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.API.exe
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.API.deps.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.API.runtimeconfig.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\bin\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.Calculator.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.build.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\scopedcss\bundle\Calculator.API.styles.css
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CopyComplete
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\refint\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\Calculator.API.genruntimeconfig.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\Calculator\obj\Debug\net6.0\ref\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\appsettings.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.API.exe
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.API.deps.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.API.runtimeconfig.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\bin\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.Calculator.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.build.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\scopedcss\bundle\Calculator.API.styles.css
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CopyComplete
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\refint\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\Calculator.API.genruntimeconfig.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\src\Calculator\obj\Debug\net6.0\ref\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\appsettings.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.API.exe
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.API.deps.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.API.runtimeconfig.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.Services.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\bin\Debug\net6.0\Calculator.Services.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.AssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.Calculator.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.build.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calculator.API.props
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\scopedcss\bundle\Calculator.API.styles.css
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.csproj.CopyComplete
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\refint\Calculator.API.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\Calculator.API.genruntimeconfig.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session1\src\Calculator\obj\Debug\net6.0\ref\Calculator.API.dll
