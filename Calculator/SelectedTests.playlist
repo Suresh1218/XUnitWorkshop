@@ -1,0 +1,42 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="CalculatorTests" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="CalculatorTests.CalculatorServiceTests" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="CalculatorServiceTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="CalculatorTests.CalculatorServiceTests.CalculatorServiceTests.AddNegativeTwoNumbers_ShouldThrowException" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CalculatorTests.CalculatorServiceTests.CalculatorServiceTests.AddNegativeTwoNumbers_ShouldThrowException" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="CalculatorTests.CalculatorServiceTests.CalculatorServiceTests.AddNumbers_ShouldReturnSuccess" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CalculatorTests.CalculatorServiceTests.CalculatorServiceTests.AddNumbers_ShouldReturnSuccess(num1: 0, num2: 3, result: 3)" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="CalculatorTests.CalculatorServiceTests.CalculatorServiceTests.AddTwoPositiveNumber_ShouldReturnAdditionOfNumbers" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CalculatorTests.CalculatorServiceTests.CalculatorServiceTests.AddTwoPositiveNumber_ShouldReturnAdditionOfNumbers" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>
