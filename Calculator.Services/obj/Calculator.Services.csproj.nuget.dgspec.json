@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suresh\\Documents\\XUnit\\CalculatorApp_IntroductionPractice\\Calculator.Services\\Calculator.Services.csproj": {}
+    "C:\\Users\\suresh\\Desktop\\XUnitWorkshop\\Calculator.Services\\Calculator.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suresh\\Documents\\XUnit\\CalculatorApp_IntroductionPractice\\Calculator.Services\\Calculator.Services.csproj": {
+    "C:\\Users\\suresh\\Desktop\\XUnitWorkshop\\Calculator.Services\\Calculator.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suresh\\Documents\\XUnit\\CalculatorApp_IntroductionPractice\\Calculator.Services\\Calculator.Services.csproj",
+        "projectUniqueName": "C:\\Users\\suresh\\Desktop\\XUnitWorkshop\\Calculator.Services\\Calculator.Services.csproj",
         "projectName": "Calculator.Services",
-        "projectPath": "C:\\Users\\suresh\\Documents\\XUnit\\CalculatorApp_IntroductionPractice\\Calculator.Services\\Calculator.Services.csproj",
+        "projectPath": "C:\\Users\\suresh\\Desktop\\XUnitWorkshop\\Calculator.Services\\Calculator.Services.csproj",
         "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suresh\\Documents\\XUnit\\CalculatorApp_IntroductionPractice\\Calculator.Services\\obj\\",
+        "outputPath": "C:\\Users\\suresh\\Desktop\\XUnitWorkshop\\Calculator.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
