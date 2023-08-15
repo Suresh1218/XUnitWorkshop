@@ -1,0 +1,51 @@
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\suresh\Documents\Test Project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Users\suresh\Downloads\Reactivities-session6\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Users\suresh\Desktop\XUnitWorkshop\session2\src\Persistence\obj\Debug\net6.0\ref\Persistence.dll

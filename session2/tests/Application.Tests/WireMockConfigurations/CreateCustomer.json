@@ -1,0 +1,28 @@
+[
+  {
+    "Request": {
+      "Method": "POST",
+      "Path": "/auth/access"
+    },
+    "Response": {
+      "Status": 200,
+      "Headers": {
+        "Content-Type": "application/json"
+      },
+      "Body": "{ \"accessToken\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImNyZWF0ZWRfYXQiOiIyMDIyLTAyLTI1VDE5OjA1OjQzLjI4NzY4NFoiLCJsYXN0X3VwZGF0ZV9hdCI6IjIwMjItMDQtMTlUMTc6Mzc6MzYuODIwNDI2WiIsIm5hbWUiOiJSaWdodCBOZXR3b3JrcyBBY2NvdW50aW5nIFx1MDAyNiBUYXggLSBTYW5kYm94IiwiYWRkcmVzc19saW5lXzEiOiIxMTU2MCBHcmVhdCBPYWtzIFdheSIsImNvdW50cnkiOiJVUyIsImNpdHkiOiJBbHBoYXJldHRhIiwic3RhdGUiOiJHQSIsInppcF9jb2RlIjoiMzAwMDQiLCJ0aW1lem9uZSI6IlVTL0Vhc3Rlcm4iLCJhZGRyZXNzX2xpbmVfMiI6IiIsImlkIjoiMTI5NDdlOTctN2FhMS00NmQzLWJmYzgtZjdiZjhmMTkwYTA2In0sImF1ZCI6Imh0dHBzOi8vYXBpLnN5bWJvbHNlY3VyaXR5LmNvbSIsImV4cCI6MTY4ODUzNjQyMSwianRpIjoiYTU0MDU0OTktNzhkNi00MGUzLWFmZGUtMGVkNzJjZmQ5NzNiIiwiaWF0IjoxNjg4NTMyODIxLCJpc3MiOiJodHRwczovL3N5bWJvbHNlY3VyaXR5LmNvbS8iLCJuYmYiOjE2ODg1MzI4MjF9.G42Z-WAYdHJjefDcbRlticv4EORWPzC_4IHTxYNCUKo\" }"
+    }
+  },
+  {
+    "Request": {
+      "Method": "POST",
+      "Path": "/msp/companies"
+    },
+    "Response": {
+      "Status": 200,
+      "Headers": {
+        "Content-Type": "application/json"
+      },
+      "Body": "{\"addressLine1\":\"325BicDrive\",\"country\":\"US\",\"city\":\"MILFORD\",\"state\":\"CT\",\"zipCode\":\"06460\",\"timezone\":\"US/Eastern\",\"name\":\"RightNetworksAccounting&Tax-Sandbox/yara\",\"addressLine2\":\"\",\"updatedAt\":\"2023-07-05T12:34:56Z\",\"createdAt\":\"2023-07-05T12:34:56Z\",\"id\":\"1db93bfa-6928-4b24-9166-be199e8877c6\"}"
+    }
+  }
+]
