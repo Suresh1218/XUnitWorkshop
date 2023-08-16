@@ -22,8 +22,14 @@ namespace Calculator.Services
         // Method to check if a string is a palindrome
         public bool IsPalindrome(string input)
         {
-            if (string.IsNullOrEmpty(input))
-                throw new ArgumentException("Input string cannot be null or empty.");
+            if (input == null)
+                throw new ArgumentException("Input string cannot be null.");
+            
+            if (input == string.Empty)
+                throw new ArgumentException("Input string cannot be empty.");
+
+            if (input.Length < 5)
+                throw new ArgumentException("Invalid string length.");
 
             string reversedString = ReverseString(input);
             return input.Equals(reversedString, StringComparison.OrdinalIgnoreCase);
